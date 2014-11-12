@@ -3982,5 +3982,11 @@ message MetricsEvent {
 
     // DU tweaks
     DIRTYTWEAKS = 1001;
+
+    // Add new aoscp constants below this line.
+    // BEGIN AOSCP CONSTANTS
+
+    // Settings -> Backup & Reset -> Feature Reset
+    FEATURE_PREFERENCES = 950;
   }
 }
